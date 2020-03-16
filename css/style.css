@@ -513,6 +513,9 @@ header .inner {
 header #logo {
 	width: 300px;	/*画像の幅*/
 }
+header #logo2 {
+	width: 302px;	/*画像の幅*/
+}
 
 /*メインメニュー
 ---------------------------------------------------------------------------*/
@@ -757,6 +760,9 @@ header .inner {
 /*ロゴ画像の設定*/
 header #logo {
 	width: 200px;	/*画像の幅*/
+}
+header #logo2 {
+	width: 202px;	/*画像の幅*/
 }
 
 }
